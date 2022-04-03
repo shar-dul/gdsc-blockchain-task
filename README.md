@@ -1,6 +1,6 @@
 # gdsc-blockchain-task
 
-I have kept the first four functions which were given in [Task Page](https://github.com/Alchemishty/GDSC-Solidity-task) and added a feature that will keep a track of the number of times each function i.e. addition, subtraction, multiplication and division have been performed
+I have retained the first four functions which were given on the [Task Page](https://github.com/Alchemishty/GDSC-Solidity-task) and added a new feature that will keep a track of the number of times each of addition, subtraction, multiplication and division functions has been performed.
 
 ```solidity
 // SPDX-License-Identifier: UNLICENSED
