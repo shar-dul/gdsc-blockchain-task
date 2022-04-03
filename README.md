@@ -2,7 +2,7 @@
 
 I have kept the first four functions which were given in [Task Page](https://github.com/Alchemishty/GDSC-Solidity-task) and added a feature that will keep a track of the number of times each function i.e. addition, subtraction, multiplication and division have been performed
 
-```
+```solidity
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.7.0 <0.9.0;
 
